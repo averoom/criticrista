@@ -1,0 +1,5 @@
+highlighter: pygments
+github: [Repository metadata]
+safe: true
+lsi: false
+exclude: ['vendor', 'config.ru', 'Gemfile','Gemfile.lock', '.ruby-version', '.gitignore', '.bundle', '.git', 'LICENSE', 'README.md']

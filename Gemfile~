@@ -8,5 +8,5 @@ gem "sinatra-contrib"
 gem 'nokogiri'
 gem 'syobocal'
 gem 'rack'
-gem 'github-pages'
-gem 'jekyll'
+#gem 'github-pages'
+#gem 'jekyll'
