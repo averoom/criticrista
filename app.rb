@@ -76,5 +76,6 @@ end
   }
   get '/' do
     # @text = st.strftime("現在日時 %B,%d(%A) %Y %H時 %M分 %S秒 %Z")
-    anime_tag.to_json + "," + anime_ch.to_json + "," + anime_start.to_json + "," + anime_end.to_json
+    @text = anime_tag.to_json + "," + anime_ch.to_json + "," + anime_start.to_json + "," + anime_end.to_json
+    erb :index
   end
