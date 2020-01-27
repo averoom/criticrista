@@ -1,0 +1,62 @@
+---
+marp: true
+theme: gaia
+paginate: true
+backgroundImage: url('https://marp.app/assets/hero-background.jpg')
+---
+<!-- class: lead -->
+![bg 90%](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+
+![bg 50%](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png)
+
+# **React Redux 入門編**
+
+株式会社 i-Vinci - 宮脇 光輝
+
+---
+<!-- class: default -->
+<!-- header: Agenda -->
+# Agenda
+
+1. SPA
+2. React
+3. Redux
+
+---
+<!-- class: lead -->
+<!-- header: SPA -->
+# SPA
+---
+<!-- class: default -->
+# SPAとは
+#### SPAとは、「Single Page Application」の略
+#### 単一のページで構成されるWebアプリケーション
+
+---
+<!-- class: lead -->
+<!-- header: React -->
+# React
+---
+<!-- class: default -->
+# Reactとは
+
+JavaScriptでUIを構築するためのフロントエンドフレームワーク
+
+- 宣言的なView
+- コンポーネントベース
+- どこでも使える
+
+---
+<!-- class: lead -->
+<!-- header: Redux -->
+# Redux
+---
+<!-- class: default -->
+# Reduxとは
+---
+<!-- class: default -->
+## Flux　　　　　　　　　　Redux
+![bg 90%](https://staltz.com/img/flux-unidir-ui-arch.jpg)
+![bg 90%](https://staltz.com/img/redux-unidir-ui-arch.jpg)
+
+---
